@@ -1,1 +1,1 @@
-# Conditional-GAN-CGAN
+# CGAN in PyTorch
