@@ -33,3 +33,4 @@ First, download the Hand gestures dataset from [Kaggle](https://www.kaggle.com/d
 + [Vanilla GAN in PyTorch](https://github.com/arunsandy1309/Vanilla-GAN)
 + [Generating Real World Images using DCGAN in PyTorch](https://github.com/arunsandy1309/RealWorld-Image-Generation-DCGAN)
 + [Anime Character Generation using DCGAN in PyTorch](https://github.com/arunsandy1309/Anime-Character-Generation-DCGAN)
++ [CycleGAN in PyTorch](https://github.com/arunsandy1309/CycleGAN-PyTorch)
